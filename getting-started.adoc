@@ -5,7 +5,7 @@
 
 == Getting Started
 
-****
+*****
 *Expected Outcome:*
 
 * Setup Lab Environment
